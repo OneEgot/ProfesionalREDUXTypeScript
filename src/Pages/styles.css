@@ -1,0 +1,6 @@
+.home{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    flex-direction: column;
+}

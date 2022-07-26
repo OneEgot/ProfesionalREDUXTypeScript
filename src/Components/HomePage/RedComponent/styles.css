@@ -1,0 +1,11 @@
+.PriceSale_2{
+    font-weight: 600;
+    font-size: 0.52em;
+    line-height: 0.64em;
+    text-decoration-line: line-through;
+    text-decoration-color:#DF6464 ;
+    color:  #AAAAAA;
+    position: absolute;
+    top: 1.8em;
+    right: 4em;
+}

@@ -1,0 +1,32 @@
+.LikeItems{
+    width: 2.48em;
+    height: 2.4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.Like{
+    width: 0.88em;
+    height: 0.8em;
+}
+.BeatifulItem{
+    background-color: #FFA542;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 0.696em;
+    height: 0.696em;
+    position: absolute;
+    bottom: 1.15em;
+    right:  0.575em;
+}
+.counterLike{
+    font-weight: 500;
+    font-size: 0.6em;
+    line-height: 0.72em;
+    font-weight: 500;
+    background-color: #FFA542;
+    color: white;
+}
